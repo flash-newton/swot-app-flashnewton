@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MySWOT</string>
+    <string name="_1">1</string>
+    <string name="o">O</string>
+    <string name="t">T</string>
+    <string name="s">S</string>
+    <string name="click_to_add">Click to Add</string>
+    <string name="what_are_your_personal_internal_n_weaknesses_that_you_need_to_work_n_on_to_achieve_your_goals">What are your personal internal \n weaknesses that you need to work\n on to achieve your goals ?</string>
+    <string name="eakness">EAKNESS</string>
+</resources>

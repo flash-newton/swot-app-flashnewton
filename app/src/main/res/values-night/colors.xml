@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="buttonadd">#535353</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="strongtext">#FBFBFB</color>
+    <color name="weaktext">#FBFBFB</color>
+    <color name="opportext">#F3F2EF</color>
+    <color name="opporswipe">#C19E23</color>
+    <color name="threattext">#FFFFFF</color>
+    <color name="regbgboxc">#3F4142</color>
+    <color name="regtitle">#FFFFFF</color>
+    <color name="stndtextcolor">#FF647FDF</color>
+    <color name="bluetext">#F4F4F6</color>
+    <color name="greywhite">#323436</color>
+    <color name="bbluebtn">#475A9B</color>
+    <color name="redbtn">#BD4545</color>
+    <color name="yellowbtn">#977E26</color>
+    <color name="greenbtn">#1C883A</color>
+    <color name="listbox">#606263</color>
+    <color name="hometempbg">#454767</color>
+    <color name="redstat">#BD4545</color>
+    <color name="blueswipe">#3647A5</color>
+    <color name="deleteswipe">#912438</color>
+    <color name="threatswipe">#1F883B</color>
+
+</resources>
