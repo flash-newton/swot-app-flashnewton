@@ -24,9 +24,7 @@ General Features include :
  - `Responsive` to both Landscape/Portrait view and different mobile screen sizes
        
 #
-![](https://github.com/flash-newton/swot-app-flashnewton/assets/118200707/4bc459f3-5299-4132-9424-a7ee78f6cf5a)
-
-![](https://github.com/flash-newton/swot-app-flashnewton/assets/118200707/d66251c4-6cd6-4886-89a4-6c331eb982d3)
+![](https://github.com/flash-newton/swot-app-flashnewton/assets/118200707/4bc459f3-5299-4132-9424-a7ee78f6cf5a)![](https://github.com/flash-newton/swot-app-flashnewton/assets/118200707/d66251c4-6cd6-4886-89a4-6c331eb982d3)
 
 ![](https://github.com/flash-newton/swot-app-flashnewton/assets/118200707/39d08e68-b64e-4e57-981b-f08f736257ff)
 
