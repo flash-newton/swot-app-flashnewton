@@ -19,7 +19,7 @@ General Features include :
  - Ability to `add/edit/delete` specific Strengths, Weaknesses, Opportunites and Threats according to preference
  - `Responsive` to both Landscape/Portrait view and different mobile screen sizes   
 #
-![](https://github.com/flash-newton/swot-app-flashnewton/assets/118200707/aceb49ca-f9d3-4f34-8bdd-99a01f9f4c54|width=100)
+![](https://github.com/flash-newton/swot-app-flashnewton/assets/118200707/aceb49ca-f9d3-4f34-8bdd-99a01f9f4c54|width=100px)
 
 ![](https://github.com/flash-newton/swot-app-flashnewton/assets/118200707/d66251c4-6cd6-4886-89a4-6c331eb982d3.gif)
 
