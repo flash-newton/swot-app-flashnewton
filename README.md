@@ -20,7 +20,7 @@ General Features include :
  - `Responsive` to both Landscape/Portrait view and different mobile screen sizes   
 #
 
-<img src="https://raw.githubusercontent.com/flash-newton/swot-app-flashnewton/master/assets/118200707/aceb49ca-f9d3-4f34-8bdd-99a01f9f4c54.gif" alt="titlepic" width="100px" />
+<img src="https://raw.githubusercontent.com/flash-newton/swot-app-flashnewton/master/assets/118200707/aceb49ca-f9d3-4f34-8bdd-99a01f9f4c54.gif" alt="demo1" />
 
 <img src="https://github.com/flash-newton/swot-app-flashnewton/assets/118200707/d66251c4-6cd6-4886-89a4-6c331eb982d3.gif" alt="titlepic" width="100px"  />
 
