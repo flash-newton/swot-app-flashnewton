@@ -10,7 +10,6 @@ Last updated date : 07/01/2023
 
 - `Technologies Used`: Android 11 [ Red Velvet Cake ] (Java), SQLite
 
-
 ## Features
 General Features include :
  - `Login` with `Google sign-in` options
