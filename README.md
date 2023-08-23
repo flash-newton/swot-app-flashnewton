@@ -7,7 +7,7 @@ This project was designed as a university project for the Mobile Development Mod
 
 Last updated date : 07/01/2023
 ## ABOUT
-
+![](https://github.com/flash-newton/swot-app-flashnewton/assets/118200707/b83546a8-7002-409c-8c67-d1b0a3b42fac)
 - `Technologies Used`: Android 11 [ Red Velvet Cake ] (Java), SQLite
 
 ## Features
