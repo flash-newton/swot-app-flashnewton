@@ -32,7 +32,7 @@ General Features include :
 
 For any question regarding this project, please contact me through my LinkedIn or through the email berajapakse@gmail.com
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bimalrajapakse/)]
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bimalrajapakse/)
 
 
 ## Acknowledgements
