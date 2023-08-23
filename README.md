@@ -20,16 +20,9 @@ General Features include :
  - `Responsive` to both Landscape/Portrait view and different mobile screen sizes   
 #
 ![](https://github.com/flash-newton/swot-app-flashnewton/assets/118200707/aceb49ca-f9d3-4f34-8bdd-99a01f9f4c54)
-
-
-![](https://github.com/flash-newton/swot-app-flashnewton/assets/118200707/39d08e68-b64e-4e57-981b-f08f736257ff)
-
-![](https://github.com/flash-newton/swot-app-flashnewton/assets/118200707/af685bcf-8dc9-4705-90e3-e044a379d2a7)
-
-
-
-
-
+![](https://github.com/flash-newton/swot-app-flashnewton/assets/118200707/1125ad14-90cb-40c4-9c25-1c5bf8779c87)
+![](https://github.com/flash-newton/swot-app-flashnewton/assets/118200707/d8e7b0d8-1d96-48be-8ba7-24fac612fceb)
+![](https://github.com/flash-newton/swot-app-flashnewton/assets/118200707/3fc9afa0-f65b-40c4-826b-0298322fe3dd)
 
 ## App Designs
 [High fidelty Wireframes](https://www.figma.com/file/pA8WJDWeyiIc4y7MGWxZg3/swot?type=design&node-id=0%3A1&mode=design&t=pe0YYUn52Wln3vck-1)
