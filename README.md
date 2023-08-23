@@ -10,7 +10,7 @@ Last updated date : 07/01/2023
 
 - `Technologies Used`: Android 11 [ Red Velvet Cake ] (Java), SQLite
 <p style="display: flex; gap: 20px;">
-  <img src="https://github.com/flash-newton/swot-app-flashnewton/assets/118200707/2e7ab4e6-a3b3-49a7-a4ac-e36a7689933b"  />
+  <img src="https://github.com/flash-newton/swot-app-flashnewton/assets/118200707/2e7ab4e6-a3b3-49a7-a4ac-e36a7689933b" style="width: 400px;"  />
   <img src="https://github.com/flash-newton/swot-app-flashnewton/assets/118200707/7e9b7345-ae1d-415a-b555-672bc3edcae4" /> 
 </p>
 
