@@ -7,7 +7,7 @@ This project was designed as a university project for the Mobile Development Mod
 
 Last updated date : 07/01/2023
 ## ABOUT
-![](https://github.com/flash-newton/swot-app-flashnewton/assets/118200707/b83546a8-7002-409c-8c67-d1b0a3b42fac)
+<img scr="https://github.com/flash-newton/swot-app-flashnewton/assets/118200707/b83546a8-7002-409c-8c67-d1b0a3b42fac" alt="titlepic" align="center" />
 
 - `Technologies Used`: Android 11 [ Red Velvet Cake ] (Java), SQLite
 
@@ -19,7 +19,9 @@ General Features include :
  - Ability to `add/edit/delete` specific Strengths, Weaknesses, Opportunites and Threats according to preference
  - `Responsive` to both Landscape/Portrait view and different mobile screen sizes   
 #
-![](https://github.com/flash-newton/swot-app-flashnewton/assets/118200707/aceb49ca-f9d3-4f34-8bdd-99a01f9f4c54|width=100px){: height="75px" width="300px" style="float:left; padding-right:10px" }![](https://github.com/flash-newton/swot-app-flashnewton/assets/118200707/d66251c4-6cd6-4886-89a4-6c331eb982d3.gif){: height="75px" width="300px" style="float:left; padding-right:10px" }
+
+<img scr="(https://github.com/flash-newton/swot-app-flashnewton/assets/118200707/aceb49ca-f9d3-4f34-8bdd-99a01f9f4c54" alt="titlepic" width="100px"  />
+<img scr="https://github.com/flash-newton/swot-app-flashnewton/assets/118200707/d66251c4-6cd6-4886-89a4-6c331eb982d3.gif" alt="titlepic" width="100px"  />
 
 ![](https://github.com/flash-newton/swot-app-flashnewton/assets/118200707/39d08e68-b64e-4e57-981b-f08f736257ff)
 
